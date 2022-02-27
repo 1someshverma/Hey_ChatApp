@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218171970348",
+    "project_id": "hey--chat-app-5580c",
+    "storage_bucket": "hey--chat-app-5580c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218171970348:android:d43ee6900257f239a71289",
+        "android_client_info": {
+          "package_name": "com.example.heychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218171970348-t93ocmv2v72850jtv4ih48as900emquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYIS6xNU7FmHmcWMo9vJRUfvpyaenGvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218171970348-t93ocmv2v72850jtv4ih48as900emquv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
